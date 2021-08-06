@@ -1,0 +1,13 @@
+.card {
+	margin: 4rem 26rem;
+	box-shadow: 0 .5px 1px 1px rgba(6, 10, 34);
+	border-radius: 6px;
+	background-color: transparent;
+	align-items: center;
+}
+
+@media (min-width: 600px) {
+	.cont {
+		width: 42rem;
+	}
+}
